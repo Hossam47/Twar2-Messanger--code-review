@@ -6,7 +6,7 @@ public class MessageModel {
     private String user_id, image, message, message_id, chat_id;
     private double lat, lang;
     private long time;
-//    private boolean seen;
+    private boolean seen;
 
     public MessageModel() {
     }
