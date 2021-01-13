@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/hossam/messangercodereview/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/hossam/messangercodereview/MainActivity.java	(revision aebd6b7823eb9c38d93b4f2e5eddcb8bc5d1c2ed)
++++ app/src/main/java/com/hossam/messangercodereview/MainActivity.java	(date 1610536529000)
+@@ -9,6 +9,6 @@
+     @Override
+     protected void onCreate(Bundle savedInstanceState) {
+         super.onCreate(savedInstanceState);
+-        setContentView(R.layout.activity_main);
++//        setContentView(R.layout.activity_main);
+     }
+ }
+\ No newline at end of file
